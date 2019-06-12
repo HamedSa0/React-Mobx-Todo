@@ -7,4 +7,4 @@
 npm install
 
 # serve at localhost:3000
-npm star
+npm start
